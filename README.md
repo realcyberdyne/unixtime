@@ -63,7 +63,7 @@ This project is [MIT](LICENSE) licensed.
 ## 👤 Author
 
 Your Name
-- GitHub: [@your-username](https://github.com/rezafarazi)
+- GitHub: [@rezafarazi](https://github.com/rezafarazi)
 
 ---
 ⭐️ Star this repo if you found it helpful! 
