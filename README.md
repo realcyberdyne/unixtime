@@ -32,7 +32,7 @@ git clone https://github.com/[your-username]/UnixTime.git
 cd UnixTime
 ```
 
-3. Open `index.html` in your browser or set up a local server.
+3. Open `index.php` in your browser or set up a local server.
 
 ## 🌐 Hosting on GitHub Pages
 
@@ -40,7 +40,6 @@ cd UnixTime
 2. Scroll down to the GitHub Pages section
 3. Select the main branch as the source
 4. Save the changes
-5. Your site will be published at `https://[your-username].github.io/UnixTime`
 
 ## 💻 Local Development
 
@@ -55,7 +54,7 @@ Simply open the `index.html` file in your web browser. No special setup or serve
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/[your-username]/UnixTime/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/realcyberdyne/unixtime/issues).
 
 ## 📄 License
 
@@ -64,7 +63,7 @@ This project is [MIT](LICENSE) licensed.
 ## 👤 Author
 
 Your Name
-- GitHub: [@your-username](https://github.com/[your-username])
+- GitHub: [@your-username](https://github.com/rezafarazi)
 
 ---
 ⭐️ Star this repo if you found it helpful! 
